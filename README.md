@@ -42,7 +42,10 @@
 
 ![Akhil's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AkhilRachha&show_icons=true&theme=react)
 
-![Akhil's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AkhilRachha&show_icons=true&theme=react)
+
+## 🚀 GitHub Stats
+
+![Akhil's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AkhilRachha&show_icons=true&theme=react&cache_seconds=1800&count_private=true&include_all_commits=true)
 
 ---
 
