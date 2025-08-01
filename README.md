@@ -9,9 +9,9 @@
 ## 🧠 Technical Skills
 
 - **Languages:** Python, Java, C, R  
-- **Web Technologies:** HTML5, CSS3, JavaScript (ES6+), Node.js, React.js  
+- **Web Technologies:** HTML, CSS, JavaScript, Node.js, React.js  
 - **Databases:** MySQL, MongoDB  
-- **Tools & Tech:** Git, Tableau, Flask, Hadoop  
+- **Tools & Tech:** Git, Tableau, Hadoop  
 - **Special Interests:** Data Science, Machine Learning, Full-Stack Development
 
 ---
@@ -27,27 +27,19 @@
 ---
 
 
-## 🎓 Certifications & Activities
+## 🎓 Certifications
 
 - ✅ Python for Data Science - *IBM*  
 - ✅ Java - *HackerRank*  
 - ✅ DBMS - *Scalar*  
 - ✅ Data Analytics - *Cisco*  
-- 🛠️ Hackathon: HACKATTACK-25 (24-hour Hackathon participant)  
-- 🤖 Workshop on AI, ML, and Web App Deployment using Streamlit & Flask
 
 ---
 
 ## 📊 GitHub Stats
 
-![Akhil's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AkhilRachha&show_icons=true&theme=react)
-
-
-## 🚀 GitHub Stats
-
-![Akhil's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AkhilRachha&show_icons=true&theme=react&cache_seconds=1800&count_private=true&include_all_commits=true)
-
 ![Akhil's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AkhilRachha&show_icons=true&theme=react&count_private=true)
+
 ---
 
 ## 🌐 Connect With Me
