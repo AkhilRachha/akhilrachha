@@ -42,6 +42,8 @@
 
 ![Akhil's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AkhilRachha&show_icons=true&theme=react)
 
+![Akhil's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AkhilRachha&show_icons=true&theme=react)
+
 ---
 
 ## 🌐 Connect With Me
