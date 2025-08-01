@@ -18,13 +18,14 @@
 
 ## 💼 Experience
 
-**Full-Stack Developer Intern**  
+**Full-Stack Development Intern**  
 *IT People Corporation (April 2025 – Present)*  
-- Built event management web platforms using the **MERN stack**.  
-- Integrated user authentication, real-time updates, and responsive UIs.  
-- Developed efficient backend APIs using Node.js & Express.js.
+- Currently building a full-stack web platform using the **MERN stack**.  
+- Working on features like user authentication, real-time updates, and responsive UI.  
+- Developing backend APIs with **Node.js** and **Express.js**, and designing dynamic frontends with **React.js**.
 
 ---
+
 
 ## 🎓 Certifications & Activities
 
