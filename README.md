@@ -48,4 +48,5 @@
 
 - 📧 [akhilrachha29@gmail.com](mailto:akhilrachha29@gmail.com)  
 - 🔗 [LinkedIn](https://www.linkedin.com/in/akhil-rachha-3133112ba)  
-- 🧑‍💻 [GitHub](https://github.com/AkhilRachha)
+
+---
