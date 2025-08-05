@@ -20,9 +20,11 @@
 
 **Full-Stack Development Intern**  
 *IT People Corporation (April 2025 – Present)*  
-- Currently building a full-stack web platform using the **MERN stack**.  
-- Working on features like user authentication, real-time updates, and responsive UI.  
-- Developing backend APIs with **Node.js** and **Express.js**, and designing dynamic frontends with **React.js**.
+-Currently developing a Hackathon Portal (GitHub Repo) — a full-stack platform for managing hackathon events.
+-Implementing features like secure user authentication, real-time updates, and a responsive, mobile-friendly UI.
+-Building RESTful APIs using Node.js and Express.js for backend services.
+-Creating dynamic and interactive frontends with React.js, integrated with backend APIs.
+-Managing database operations using MongoDB for efficient data storage and retrieval.
 
 ---
 
