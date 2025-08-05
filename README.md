@@ -20,7 +20,7 @@
 
 **Full-Stack Development Intern**  
 *IT People Corporation (April 2025 – Present)*  
--Currently developing a Hackathon Portal (GitHub Repo) — a full-stack platform for managing hackathon events.
+-Currently developing a [Hackathon Portal](https://github.com/AkhilRachha/hackathon-portal) a full-stack platform for managing hackathon events.
 -Implementing features like secure user authentication, real-time updates, and a responsive, mobile-friendly UI.
 -Building RESTful APIs using Node.js and Express.js for backend services.
 -Creating dynamic and interactive frontends with React.js, integrated with backend APIs.
