@@ -38,7 +38,7 @@
 
 ## 📊 GitHub Stats
 
-![Akhil's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AkhilRachha&show_icons=true&theme=react&count_private=true)
+![Akhil's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AkhilRachha&show_icons=true&theme=react&count_private=true&cache_seconds=1800)
 
 ---
 
