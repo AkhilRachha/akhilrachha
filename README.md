@@ -46,7 +46,7 @@
 
 ## 🌐 Connect With Me
 
-- 🌎 [Portfolio](#)
+- 🌎 [Portfolio](https://akhilrachha.github.io/akhilrachha-portfolio/)
 - 📧 [akhilrachha29@gmail.com](mailto:akhilrachha29@gmail.com)  
 - 🔗 [LinkedIn](https://www.linkedin.com/in/akhil-rachha-3133112ba)  
 
